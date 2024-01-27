@@ -1,0 +1,9 @@
+Java is a dynamic typed language bcoz we don't need to define the variables when using it, they are defined once at a run time. 
+There are two types of data types- 
+Primitive: They are called by value. [ Numbers, strings, boolean, null, undefined, symbol, BigInt]
+Non Primitive: They are called by reference. [Arrays, Object, Functions]
+
+Symbol: They are a kind of data types when we need to declare any unique type of data. Like ID. 
+const id = Symbol('123')
+Each symbol is identified uniquely. 
+
