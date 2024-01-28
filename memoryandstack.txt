@@ -1,0 +1,3 @@
+Stack is used to store Primitive Data Type. In this the copy of declared variable is used.
+Heap is used to store Non- Primitive Data types. In this the reference of declared variable is used, which means 
+the original value get changed. 
